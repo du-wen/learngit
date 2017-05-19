@@ -1,2 +1,0 @@
-1. ![IP timing constraints error](https://github.com/wangdongCCNU/HPDAQ2/blob/master/DDR3_PICTURE/DDR3_P3.png)
-2. ![Debug problem](https://github.com/wangdongCCNU/HPDAQ2/blob/master/DDR3_PICTURE/DDR3_P4.png)

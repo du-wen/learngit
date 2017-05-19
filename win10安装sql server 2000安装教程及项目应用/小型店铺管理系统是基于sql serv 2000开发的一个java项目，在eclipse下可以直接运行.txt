@@ -1,0 +1,1 @@
+小型店铺管理系统是基于sql serv 2000开发的一个java项目，在eclipse下可以直接运行（要利用jdbc）
